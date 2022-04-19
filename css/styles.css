@@ -181,3 +181,8 @@ h3{
   padding-top: 10px;
   padding-bottom: 10px;
 }
+.fab{
+padding: 50px 10px 30px 10px;
+color: gray;
+font-size: 20px;
+}
